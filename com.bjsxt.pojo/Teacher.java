@@ -5,6 +5,7 @@ public class Teacher{
         8d5cec9b124c7a513358cf92cbd302ee43d7489c
         8d5cec9b124c7a513358cf92cbd302ee43d7489c
         System.out.println(5);
+        System.out.println(6);
 
 
     }
